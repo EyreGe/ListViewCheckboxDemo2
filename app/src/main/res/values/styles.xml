@@ -1,0 +1,6 @@
+<resources>
+    <style name="CheckBoxTheme">
+        <item name="colorAccent">#02C697</item><!--选中颜色-->
+        <item name="colorControlNormal">#8F92A1</item><!--未选中颜色-->
+    </style>
+</resources>
